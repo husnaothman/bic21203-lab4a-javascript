@@ -14,7 +14,7 @@ This repository contains the solutions for Lab 4a: Client-Side Scripting (JavaSc
 This program changes the paragraph text from "Welcome to my website!" to "Hello there!" when the user clicks the Change Message button.
 
 ## Question 2: Smart Number Validator
-This program accepts a number from the user and checks whether it is lower than, higher than or equal to 10. It also validates empty and invalid inputs.
+This program accepts a number from the user and checks whether it is lower than, higher than or equal to 10. It also validates invalid and empty inputs.
 
 ## Question 3: Dynamic Number Generator
 This program uses a for loop to dynamically generate an ordered list containing numbers from 1 to 5.
